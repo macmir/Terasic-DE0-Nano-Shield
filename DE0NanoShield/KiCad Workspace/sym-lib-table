@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "CS4344-CZZ")(type "Legacy")(uri "C:/Users/Maciek/Documents/Studia/Semestr 6/TermDesign/Terasic-DE0-Nano-Shield/DE0NanoShield/Additional Footprints and Symbols/CS4344-CZZ.lib")(options "")(descr ""))
+  (lib (name "BLM15AG601SN1D")(type "Legacy")(uri "C:/Users/Maciek/Documents/Studia/Semestr 6/TermDesign/Terasic-DE0-Nano-Shield/DE0NanoShield/Additional Footprints and Symbols/BLM15AG601SN1D.lib")(options "")(descr ""))
 )
