@@ -1,5 +1,5 @@
 
-(module BEADC1005X55N (layer F.Cu) (tedit 6285F52A)
+(module BEADC1005X55N (layer F.Cu) (tedit 628A63C4)
   (descr "")
   (fp_text reference REF** (at 0.3 -0.88 0) (layer F.SilkS)
     (effects (font (size 0.393700787402 0.393700787402) (thickness 0.15)))
