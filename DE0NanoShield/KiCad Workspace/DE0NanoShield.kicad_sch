@@ -5866,7 +5866,7 @@
     (uuid 9464acfd-8c29-443e-81cb-e5498b72dd14)
     (property "Reference" "SW11" (id 0) (at 129.794 275.59 0))
     (property "Value" "RotaryEncoder_Switch" (id 1) (at 129.794 278.13 0))
-    (property "Footprint" "" (id 2) (at 125.984 281.432 0)
+    (property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" (id 2) (at 125.984 281.432 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 129.794 278.892 0)
@@ -6918,7 +6918,7 @@
       (reference "SW10") (unit 1) (value "SW_SPDT") (footprint "Button_Switch_SMD:SW_SPDT_PCM12")
     )
     (path "/9464acfd-8c29-443e-81cb-e5498b72dd14"
-      (reference "SW11") (unit 1) (value "RotaryEncoder_Switch") (footprint "")
+      (reference "SW11") (unit 1) (value "RotaryEncoder_Switch") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
     )
     (path "/e2228ec7-985b-43b9-8d7e-0bef3e2c842e"
       (reference "SW12") (unit 1) (value "SW_SPDT") (footprint "Button_Switch_SMD:SW_SPDT_PCM12")
